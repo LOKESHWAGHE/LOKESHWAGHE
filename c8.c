@@ -3,9 +3,9 @@
 int main(){  
 int a[10][10],b[10][10],mul[10][10],r,c,k;    
 system("cls");  
-printf("enter the number of row=");    
+printf("enter the number of ROWS =");    
 scanf("%d",&r);    
-printf("enter the number of column=");    
+printf("enter the number of COLUMNS =");    
 scanf("%d",&c);    
 printf("enter the first matrix element=\n");    
 for(int i=0;i<r;i++)    
